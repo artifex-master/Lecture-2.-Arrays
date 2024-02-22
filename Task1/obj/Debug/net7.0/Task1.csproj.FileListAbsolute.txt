@@ -1,0 +1,14 @@
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\user.DESKTOP-8DH92Q8\Documents\Geekbrains\Lesson02\Task1\obj\Debug\net7.0\ref\Task1.dll
